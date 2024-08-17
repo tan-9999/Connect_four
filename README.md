@@ -1,3 +1,3 @@
-it is a game project name: Connect Four 
+It is a game project named: Connect Four 
 <br>
 made using jQuery
